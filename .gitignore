@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Virtual environment
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/
+
+# PyCharm
+.idea/
+
+# Optional clutter
+.DS_Store
