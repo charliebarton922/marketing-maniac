@@ -3,7 +3,7 @@ from marketing_maniac_logic import initialize_messages, chat_with_scout
 
 st.set_page_config(page_title="Marketing Maniac", page_icon="📣")
 
-st.image("images/marketing maniac logo design.png", width=300)
+st.image("images/logo.png", width=300)
 st.title("Marketing Maniac")
 st.write("Your AI assistant for creating marketing content.")
 
